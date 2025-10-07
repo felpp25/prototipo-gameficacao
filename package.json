@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^1.12.2",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "name": "prototipo-gameficacao",
+  "version": "1.0.0",
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
