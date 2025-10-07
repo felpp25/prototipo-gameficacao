@@ -99,7 +99,7 @@ POST http://localhost:3000/webhook
   "curso": "ADS",
   "progresso": 75,
   "aula": "Engenharia de Software I",
-  "telefone": "+5562986442841"
+  "telefone": "+556299999999"
 }
 ```
 
@@ -107,7 +107,8 @@ POST http://localhost:3000/webhook
 
 ---
 
-<img width="925" height="560" alt="image" src="https://github.com/user-attachments/assets/78be6879-59d5-49fe-8d26-d8f735759e06" />
+<img width="933" height="566" alt="image" src="https://github.com/user-attachments/assets/a218023e-7681-4ee2-b7e3-a13c80415dbe" />
+
 
 
 ##  Exemplo de Mensagem Enviada
